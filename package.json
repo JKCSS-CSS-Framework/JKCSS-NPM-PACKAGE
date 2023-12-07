@@ -20,9 +20,9 @@
     "SASS"
   ],
   "author": "@jehankandy",
-  "license": "ISC",
+  "license": "MIT",
   "bugs": {
     "url": "https://github.com/JKCSS-CSS-Framework/JKCSS-NPM-PACKAGE/issues"
   },
-  "homepage": "https://github.com/JKCSS-CSS-Framework/JKCSS-NPM-PACKAGE#readme"
+  "homepage": "https://jkcss-css-framework.github.io/JKCSS-Framework/site/content/docs/"
 }
