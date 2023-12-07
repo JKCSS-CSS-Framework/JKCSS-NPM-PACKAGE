@@ -1,5 +1,5 @@
 {
-  "name": "jkcss",
+  "name": "@jehankandy/jkcss",
   "version": "1.0.0",
   "description": "JKCSS - A CSS Framework",
   "main": "index.css",
