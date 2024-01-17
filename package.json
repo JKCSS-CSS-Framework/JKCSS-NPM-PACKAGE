@@ -2,7 +2,7 @@
   "name": "@jehankandy/jkcss",
   "version": "3.0.0",
   "description": "JKCSS - A CSS Framework",
-  "main": "src/v210-alpha1/jkcss.min.css",
+  "main": "src/jkcss.min.css",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
