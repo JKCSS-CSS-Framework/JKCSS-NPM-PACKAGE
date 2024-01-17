@@ -94,7 +94,7 @@ All previous releases in [JKCSS](https://github.com/JKCSS/JKCSS-Framework)
 | v1.2.0  | 26 December 2023  | buttons |
 | v2.0.0  | 01 January 2024  | Typography |
 | v2.1.0-alpha1  | 02 January 2024  | Typography |
-
+| v3.0.0 | 17 January 2024  | Columns |
 
 # Releases
 
