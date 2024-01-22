@@ -1,6 +1,6 @@
 {
   "name": "@jehankandy/jkcss",
-  "version": "3.0.0",
+  "version": "3.0.1",
   "description": "JKCSS - A CSS Framework",
   "main": "src/jkcss.min.css",
   "scripts": {
