@@ -99,7 +99,7 @@ All previous releases in [JKCSS](https://github.com/JKCSS/JKCSS-Framework)
 
 # Releases
 
-## Version - v3.0.0 - 16 January 2024 Latest
+## Version - v3.0.1 - 22 January 2024 Latest
 
 - updating <b>NPM pacakege</b> for framework (4th version)
 - npm link: [@jehankandy/jkcss](https://www.npmjs.com/package/@jehankandy/jkcss)
