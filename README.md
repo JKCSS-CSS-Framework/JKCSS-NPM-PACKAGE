@@ -3,13 +3,18 @@
 
 <p align="center">The JKCSS is a CSS Framework</p>
 
+# About JKCSS
+
+- Location: Sri Lanka
+- CSS Framework Developed in Sri Lanka 
+
 # Introduction
 
 All previous releases in [JKCSS](https://github.com/JKCSS/JKCSS-Framework)
 
 - The JKCSS is a one of CSS Frameworks. and JKCSS underdevelopment. Any person who likes Web development and design feel free to use this Framework
 
-- Current Release : [v1.1.0 - 24 December 2023 Latest](https://github.com/JKCSS-CSS-Framework/JKCSS-Framework/releases/tag/v1.1.0)
+- Current Release : [v4.1.0 - 25 January 2024 Latest](https://github.com/JKCSS-CSS-Framework/JKCSS-Framework/releases/tag/v4.1.0)
 
 - Publishing as a Npm Package version [v1.0.1](https://github.com/JKCSS-CSS-Framework/JKCSS-Framework/releases/tag/v1.0.1). as version 1.0.0 in Npm 
 
@@ -25,7 +30,11 @@ All previous releases in [JKCSS](https://github.com/JKCSS/JKCSS-Framework)
 
 - The Repo [JKCSS Icons](https://github.com/JKCSS-CSS-Framework/JKCSS-Icons) 
 
-- The layouts for css (grid, rows, columns) will be develop in 3.0.0 version
+- The layouts for css (grid, rows, columns) added in 3.0.0 version
+
+- javascrip added in Version v4.0.0
+
+- in [jsdelivr](https://www.jsdelivr.com/package/npm/@jehankandy/jkcss)
 
 # Projects
 
@@ -76,6 +85,12 @@ All previous releases in [JKCSS](https://github.com/JKCSS/JKCSS-Framework)
 | rec-10 | column 10 |
 | rec-11 | column 11 |
 | rec-12 | column 12 |
+| jk-modal | base class of Modal |
+| control-jkforms | For all Form inputs |
+| jk-card | For Cards |
+| jk-table | base tale |
+| jk-table hover-table | base table hover rows |
+
 
 # History
 
@@ -94,25 +109,68 @@ All previous releases in [JKCSS](https://github.com/JKCSS/JKCSS-Framework)
 | v1.2.0  | 26 December 2023  | buttons |
 | v2.0.0  | 01 January 2024  | Typography |
 | v2.1.0-alpha1  | 02 January 2024  | Typography |
-| v3.0.0 | 17 January 2024  | Columns |
-| v3.0.1 | 22 January 2024  | Columns |
+| v2.1.0-beta1  | 04 January 2024  | site Develop , Typography |
+| v3.0.0  | 16 January 2024  | Layouts, columns |
+| v3.0.1  | 22 January 2024  | Layouts, columns |
+| v4.0.0  | 24 January 2024  | javascript, Modals |
+| v4.1.0-beta1  | 24 January 2024  | checking Forms |
+| v4.1.0  | 25 January 2024  | Forms, Cards, Tables  |
 
 # Releases
 
-## Version - v3.0.1 - 22 January 2024 Latest
+## Version - v4.1.0 - 25 January 2024 Latest
 
-- updating <b>NPM pacakege</b> for framework (4th version)
+- updating <b>NPM pacakege</b> for framework (7th version)
+- npm link: [@jehankandy/jkcss](https://www.npmjs.com/package/@jehankandy/jkcss)
+- Improve Base Interfaces
+- Checking Forms for Adding
+- Adding Forms
+- Adding Cards
+- Adding Tables
+
+## Version - v4.1.0-beta1 - 24 January 2024 Latest
+
+- updating <b>NPM pacakege</b> for framework (7th version)
+- npm link: [@jehankandy/jkcss](https://www.npmjs.com/package/@jehankandy/jkcss)
+- Improve Base Interfaces
+- Checking Forms for Adding
+
+
+## Version - v4.0.0 - 24 January 2024 
+
+- 1st version with javascript
+- updating <b>NPM pacakege</b> for framework (7th version)
+- npm link: [@jehankandy/jkcss](https://www.npmjs.com/package/@jehankandy/jkcss)
+- Improve Base Interfaces
+- adding Modals
+- adding javascripts
+- 4th Major Release : Adding (javascript)
+
+## Version - v3.0.1 - 22 January 2024 
+
+- updating <b>NPM pacakege</b> for framework (6th version)
 - npm link: [@jehankandy/jkcss](https://www.npmjs.com/package/@jehankandy/jkcss)
 - Improve Base Interfaces
 - Updating Layouts(responsive columns)
 
 ## Version - v3.0.0 - 16 January 2024 
 
-- updating <b>NPM pacakege</b> for framework (4th version)
+- updating <b>NPM pacakege</b> for framework (6th version)
 - npm link: [@jehankandy/jkcss](https://www.npmjs.com/package/@jehankandy/jkcss)
 - Improve Base Interfaces
-- adding layputs
-- - columns
+- 3rd Major Release : Adding layout (columns)
+
+## Version - v2.1.0-beta1 - 04 January 2024 
+
+- updating <b>NPM pacakege</b> for framework (5th version)
+- npm link: [@jehankandy/jkcss](https://www.npmjs.com/package/@jehankandy/jkcss)
+- Improve Base Interfaces
+- updating new Docs (typography)
+- - adding HTML inline elements
+- fixing bugs
+- - remove all version vice folders
+- - now only one folder
+- adding user friendly responsive navbar
 
 ## Version - v2.1.0-alpha1 - 02 January 2024 
 
