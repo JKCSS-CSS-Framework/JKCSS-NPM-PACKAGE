@@ -90,7 +90,12 @@ All previous releases in [JKCSS](https://github.com/JKCSS/JKCSS-Framework)
 | jk-card | For Cards |
 | jk-table | base tale |
 | jk-table hover-table | base table hover rows |
-
+| alertjk alertjk-blue | Blue Alert |
+| alertjk alertjk-gray | Gray Alert |
+| alertjk alertjk-green | Green Alert |
+| alertjk alertjk-red | Red Alert |
+| alertjk alertjk-yellow | Yellow Alert |
+| alertjk alertjk-info | Light Blue Alert |
 
 # History
 
@@ -116,10 +121,18 @@ All previous releases in [JKCSS](https://github.com/JKCSS/JKCSS-Framework)
 | v4.1.0-beta1  | 24 January 2024  | checking Forms |
 | v4.1.0  | 25 January 2024  | Forms, Cards, Tables  |
 | v4.1.1  | 27 January 2024  | Fixing Bus on Modals  |
+| v4.2.0  | 27 January 2024  | Adding HTMl Alerts  |
 
 # Releases
 
-## Version - v4.1.1 - 27 January 2024 Latest
+## Version - v4.2.0 - 27 January 2024 Latest
+
+- updating <b>NPM pacakege</b> for framework (8th version)
+- npm link: [@jehankandy/jkcss](https://www.npmjs.com/package/@jehankandy/jkcss)
+- Improve Base Interfaces
+- Adding Alerts
+
+## Version - v4.1.1 - 27 January 2024 
 
 - updating <b>NPM pacakege</b> for framework (8th version)
 - npm link: [@jehankandy/jkcss](https://www.npmjs.com/package/@jehankandy/jkcss)
