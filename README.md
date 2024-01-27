@@ -14,7 +14,7 @@ All previous releases in [JKCSS](https://github.com/JKCSS/JKCSS-Framework)
 
 - The JKCSS is a one of CSS Frameworks. and JKCSS underdevelopment. Any person who likes Web development and design feel free to use this Framework
 
-- Current Release : [v4.1.0 - 25 January 2024 Latest](https://github.com/JKCSS-CSS-Framework/JKCSS-Framework/releases/tag/v4.1.0)
+- Current Release : [v4.1.0 - 25 January 2024 Latest](https://github.com/JKCSS-CSS-Framework/JKCSS-Framework/releases/tag/v4.1.1)
 
 - Publishing as a Npm Package version [v1.0.1](https://github.com/JKCSS-CSS-Framework/JKCSS-Framework/releases/tag/v1.0.1). as version 1.0.0 in Npm 
 
@@ -115,10 +115,19 @@ All previous releases in [JKCSS](https://github.com/JKCSS/JKCSS-Framework)
 | v4.0.0  | 24 January 2024  | javascript, Modals |
 | v4.1.0-beta1  | 24 January 2024  | checking Forms |
 | v4.1.0  | 25 January 2024  | Forms, Cards, Tables  |
+| v4.1.1  | 27 January 2024  | Fixing Bus on Modals  |
 
 # Releases
 
-## Version - v4.1.0 - 25 January 2024 Latest
+## Version - v4.1.1 - 27 January 2024 Latest
+
+- updating <b>NPM pacakege</b> for framework (8th version)
+- npm link: [@jehankandy/jkcss](https://www.npmjs.com/package/@jehankandy/jkcss)
+- Improve Base Interfaces
+- Fixing Bugs on Modals
+- - User Friendly Moldes
+
+## Version - v4.1.0 - 25 January 2024 
 
 - updating <b>NPM pacakege</b> for framework (7th version)
 - npm link: [@jehankandy/jkcss](https://www.npmjs.com/package/@jehankandy/jkcss)
@@ -128,7 +137,7 @@ All previous releases in [JKCSS](https://github.com/JKCSS/JKCSS-Framework)
 - Adding Cards
 - Adding Tables
 
-## Version - v4.1.0-beta1 - 24 January 2024 Latest
+## Version - v4.1.0-beta1 - 24 January 2024 
 
 - updating <b>NPM pacakege</b> for framework (7th version)
 - npm link: [@jehankandy/jkcss](https://www.npmjs.com/package/@jehankandy/jkcss)
