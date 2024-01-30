@@ -14,7 +14,7 @@ All previous releases in [JKCSS](https://github.com/JKCSS/JKCSS-Framework)
 
 - The JKCSS is a one of CSS Frameworks. and JKCSS underdevelopment. Any person who likes Web development and design feel free to use this Framework
 
-- Current Release : [v4.1.0 - 25 January 2024 Latest](https://github.com/JKCSS-CSS-Framework/JKCSS-Framework/releases/tag/v4.1.1)
+- Current Release : [v4.3.0 - 30 January 2024 Latest](https://github.com/JKCSS-CSS-Framework/JKCSS-Framework/releases/tag/v4.3.0)
 
 - Publishing as a Npm Package version [v1.0.1](https://github.com/JKCSS-CSS-Framework/JKCSS-Framework/releases/tag/v1.0.1). as version 1.0.0 in Npm 
 
@@ -35,6 +35,12 @@ All previous releases in [JKCSS](https://github.com/JKCSS/JKCSS-Framework)
 - javascrip added in Version v4.0.0
 
 - in [jsdelivr](https://www.jsdelivr.com/package/npm/@jehankandy/jkcss)
+
+- On PHP: Successfully Tested
+
+- On Laraval: Testing...
+
+- On React: Testing...
 
 # Projects
 
@@ -85,7 +91,7 @@ All previous releases in [JKCSS](https://github.com/JKCSS/JKCSS-Framework)
 | rec-10 | column 10 |
 | rec-11 | column 11 |
 | rec-12 | column 12 |
-| jk-modal | base class of Modal |
+| modal | base class of Modal |
 | control-jkforms | For all Form inputs |
 | jk-card | For Cards |
 | jk-table | base tale |
@@ -120,12 +126,21 @@ All previous releases in [JKCSS](https://github.com/JKCSS/JKCSS-Framework)
 | v4.0.0  | 24 January 2024  | javascript, Modals |
 | v4.1.0-beta1  | 24 January 2024  | checking Forms |
 | v4.1.0  | 25 January 2024  | Forms, Cards, Tables  |
-| v4.1.1  | 27 January 2024  | Fixing Bus on Modals  |
+| v4.1.1  | 27 January 2024  | Fixing Bugs on Modals  |
 | v4.2.0  | 27 January 2024  | Adding HTMl Alerts  |
+| v4.3.0  | 30 January 2024  | Fixing Bugs, Adding Multiple Modals  |
 
 # Releases
 
-## Version - v4.2.0 - 27 January 2024 Latest
+## Version - v4.3.0 - 30 January 2024 Latest
+
+- updating <b>NPM pacakege</b> for framework (8th version)
+- npm link: [@jehankandy/jkcss](https://www.npmjs.com/package/@jehankandy/jkcss)
+- Improve Base Interfaces
+- fixing bugs on v4.0.0 to v4.2.0 on Modals
+- adding multiple modals in same page
+
+## Version - v4.2.0 - 27 January 2024 
 
 - updating <b>NPM pacakege</b> for framework (8th version)
 - npm link: [@jehankandy/jkcss](https://www.npmjs.com/package/@jehankandy/jkcss)
