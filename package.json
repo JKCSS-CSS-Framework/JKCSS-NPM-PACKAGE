@@ -1,6 +1,6 @@
 {
   "name": "@jehankandy/jkcss",
-  "version": "4.5.0",
+  "version": "5.1.0",
   "description": "JKCSS - A CSS Framework",
   "style": "src/jkcss.min.css",
   "main": "js/jkcss.min.js",
@@ -18,7 +18,8 @@
     "2024",
     "CSS",
     "SCSS",
-    "SASS"
+    "SASS",
+    "Vite"
   ],
   "author": "@jehankandy",
   "license": "MIT",
