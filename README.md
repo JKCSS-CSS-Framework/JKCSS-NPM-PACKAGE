@@ -1,20 +1,23 @@
 <h1 align="center"> JKCSS-Framework </h1>
 <p align="center"><img src="https://avatars.githubusercontent.com/u/111488170?s=200&v=4"></p>
 
-<p align="center">The JKCSS is a CSS Framework</p>
+<p align="center">The First Sri Lankan Utility-First CSS Framework</p>
 
 # About JKCSS
 
 - Location: Sri Lanka
-- CSS Framework Developed in Sri Lanka 
+- The First (1st) CSS Framework Developed in Sri Lanka 
+- The First Sri Lankan Utility-First CSS Framework 
 
 # Introduction
 
 All previous releases in [JKCSS](https://github.com/JKCSS/JKCSS-Framework)
 
+- Utility-First CSS Framework 
+
 - The JKCSS is a one of CSS Frameworks. and JKCSS underdevelopment. Any person who likes Web development and design feel free to use this Framework
 
-- Current Release : [v4.3.0 - 30 January 2024 Latest](https://github.com/JKCSS-CSS-Framework/JKCSS-Framework/releases/tag/v4.3.0)
+- Current Release : [v6.0.0 - 05 May 2024 Latest](https://github.com/JKCSS-CSS-Framework/JKCSS-Framework/releases/tag/v6.0.0)
 
 - Publishing as a Npm Package version [v1.0.1](https://github.com/JKCSS-CSS-Framework/JKCSS-Framework/releases/tag/v1.0.1). as version 1.0.0 in Npm 
 
@@ -36,11 +39,11 @@ All previous releases in [JKCSS](https://github.com/JKCSS/JKCSS-Framework)
 
 - in [jsdelivr](https://www.jsdelivr.com/package/npm/@jehankandy/jkcss)
 
-- On PHP: Successfully Tested
-
-- On Laraval: Testing...
-
-- On React: Testing...
+| Work on | Status |
+| --------- | ------- |
+| Vite | Successful |
+| React | Successful |
+| Laravel | Testing.... |
 
 # Projects
 
@@ -107,7 +110,21 @@ All previous releases in [JKCSS](https://github.com/JKCSS/JKCSS-Framework)
 | jk-img md | image Medium |
 | jk-img lg | image large |
 | jk-img rounded-2 to rounded-100 | image Border radious 2px to 100px |
-
+| justify-between | justify-content: between; |
+| justify-end | justify-content: end; |
+| justify-start | justify-content: start; |
+| justify-even | justify-content: even; |
+| justify-around | justify-content: around; |
+| justify-left | justify-content: left; |
+| justify-right | justify-content: right; |
+| justify-center | justify-content: center; |
+| m | margin: ; |
+| my | margin: value 0; |
+| mx | margin: 0 value; |
+| p | padding: ; |
+| py | padding: value 0; |
+| px | padding: 0 value; |
+| btn-group | button group |
 
 # History
 
@@ -137,17 +154,51 @@ All previous releases in [JKCSS](https://github.com/JKCSS/JKCSS-Framework)
 | v4.3.0  | 30 January 2024  | Fixing Bugs, Adding Multiple Modals  |
 | v4.4.0  | 7 February 2024  | Adding Styles for Images  |
 | v4.5.0  | 12 February 2024  | Adding Alignment for Images, Spacing in Framework  |
+| v5.0.0-beta1  | 22 February 2024  | Develop Framework Site  |
+| v5.0.0-beta2  | 24 February 2024  | Develop Framework Site  |
+| v5.0.0  | 25 February 2024  | Adding First work on Framwork  |
+| v5.1.0  | 08 March 2024  | Updating Button , Adding Button Groups  |
+| v6.0.0  | 05 May 2024  | 6th Major Release : Utility-First Approach  |
 
 # Releases
 
+
 ## Version - v6.0.0 - 05 May 2024 Latest
 
-- updating <b>NPM pacakege</b> for framework (8th version)
-- npm link: [@jehankandy/jkcss](https://www.npmjs.com/package/@jehankandy/jkcss)
 - Improve Base Interfaces
-- adding Alignment of Images
-- adding Spacing in Framework
+- Develop site Interface
+- 6th Major Release : Utility-First Approach 
 
+
+## Version - v5.1.0 - 8 March 2024 
+
+- Improve Base Interfaces
+- Develop site Interface
+- Updating Button
+- - Adding Button Groups 
+
+
+## Version - v5.0.0 - 25 February 2024 
+
+- No for NPM Release
+- Improve Base Interfaces
+- Develop site Interface
+- adding first work on Framework (Vite.js)
+- 5th Major Release : works on Vite.js
+
+## Version - v5.0.0-beta2 - 24 February 2024 
+
+- No for NPM Release
+- Improve Base Interfaces
+- Develop site Interface
+- Develop the docs interface more user-friendly
+
+
+## Version - v5.0.0-beta1 - 22 February 2024 
+
+- No for NPM Release
+- Improve Base Interfaces
+- Develop site Interface
 
 ## Version - v4.5.0 - 12 February 2024 
 
